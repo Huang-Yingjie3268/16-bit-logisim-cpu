@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.circ.bak
+*.circ.autosave
+*~
+verification-output/
+examples/program*/memory.bin
+examples/program*/generated_image.txt
